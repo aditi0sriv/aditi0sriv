@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-
-
-🔭 I’m currently working on nodeMailer
-📫 How to reach me: aditi0sriv@gmail.com
+📫 How to reach me: aditisr.2917@gmail.com
 <!--
 **aditi0sriv/aditi0sriv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
